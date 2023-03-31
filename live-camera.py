@@ -1,7 +1,6 @@
 import cv2, os
 from PIL import Image, ImageOps, ImageDraw
 
-
 asciiCharacters = [" ",".",":","-","=","+","*","#","%","@"]
 
 def createImage(text):
